@@ -1,0 +1,136 @@
+Alabama
+Clemson
+Georgia
+Michigan
+Oklahoma
+Ohio State
+Penn State
+Notre Dame
+Washington
+Miss St
+West Virginia
+LSU
+Iowa
+Utah
+Missouri
+Texas A&M;
+Mich. St.
+Fresno State
+Auburn
+Florida
+Texas Tech
+Stanford
+Purdue
+Texas
+Washington St
+Wisconsin
+Miami
+Utah State
+Iowa State
+Boston College
+Kentucky
+UCF
+S Carolina
+NC State
+Duke
+Georgia Tech
+Boise State
+Arizona State
+Oklahoma State
+Syracuse
+Oregon
+USC
+Northwestern
+TCU
+Cincinnati
+VT
+Ole Miss
+Maryland
+Appalachian St
+UVA
+Arizona
+Cal
+Houston
+Memphis
+Army
+Colorado
+Nebraska
+Tennessee
+North Texas
+FSU
+Vanderbilt
+Pitt
+Baylor
+UAB
+Kansas State
+Indiana
+Ohio
+Temple
+UCLA
+BYU
+Minnesota
+Buffalo
+Wake Forest
+N Illinois
+Toledo
+San Diego State
+Tulane
+Air Force
+UNC
+Arkansas
+Marshall
+Ga Southern
+E Michigan
+Troy
+LA Tech
+USF
+Mid Tennessee
+Kansas
+FAU
+Nevada
+Miami (OH)
+Illinois
+SMU
+Arkansas State
+W Michigan
+Wyoming
+FIU
+Louisville
+Tulsa
+Southern Miss
+Akron
+Oregon St
+Navy
+Louisiana
+Rutgers
+New Mexico
+C. Carolina
+UMass
+Cent Michigan
+Liberty
+UL Monroe
+Colorado State
+Hawai'i
+Ball State
+Charlotte
+UNLV
+ECU
+Georgia State
+San Jose State
+Old Dominion
+W Kentucky
+Kent State
+UTSA
+Texas State
+New Mexico St
+South Alabama
+Bowling Green
+UConn
+UTEP
+Rice
+ACC:Boston College,Clemson,Duke,FSU,Georgia Tech,Louisville,Miami,NC State,UNC,Pitt,Syracuse,UVA,VT,Wake Forest
+SEC:Alabama,Georgia,Miss St,LSU,Missouri,Auburn,Florida,Kentucky,S Carolina,Ole Miss,Tennessee,Vanderbilt,Arkansas,Texas A&M;
+B1G:Michigan,Ohio State,Penn State,Iowa,Mich. St.,Purdue,Wisconsin,Northwestern,Maryland,Nebraska,Indiana,Minnesota,Illinois,Rutgers
+PAC:Washington,Utah,Stanford,Washington St,Arizona State,Oregon,USC,Arizona,Cal,Colorado,UCLA,Oregon St
+B12:Oklahoma,West Virginia,Texas Tech,Texas,Iowa State,Oklahoma State,TCU,Baylor,Kansas State,Kansas
+P5:ACC,SEC,B1g,PAC,B12
